@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>$version$</version>
+    <version>1.0.1</version>
     <title>Khan</title>
     <authors>max2me</authors>
     <owners>max2me</owners>
@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/max2me/Khan</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Inlines CSS from style tag with type=text/css-x for easier composing of backward compatible HTML emails.</description>
-    <releaseNotes>First version</releaseNotes>
+    <releaseNotes>Switched to .Net 4.0</releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>email inline css html outlook</tags>
     <dependencies>
